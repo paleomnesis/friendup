@@ -1,0 +1,11 @@
+name: FriendUp
+version: '0.1.0'
+main: works.paleomnesis.friendup.FriendUp
+api-version: '1.18'
+authors: [ paleomnesis ]
+website: paleomnesis.works
+commands:
+  friend:
+    description: Main command for FriendUp
+    usage: /friend
+    aliases: [fr]
